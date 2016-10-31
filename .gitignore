@@ -1,7 +1,13 @@
-*.pyc
+*.pyc*
 *~
 __pycache__
 djangogirls
 db.sqlite3
 /static
 .DS_Store
+lib
+.idea
+include
+lib64
+pip-selfcheck.json
+bin
